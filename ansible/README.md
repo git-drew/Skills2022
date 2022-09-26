@@ -6,4 +6,4 @@ Task implementation => open hosts file, and cp websever script, auromated playbo
 
 Task Troubleshooting=> no significate trouble was experenced here. as thigns were quite smooth
 
-Task verification=> 2 pictures have been inlcluded for verification as well ass scritps used during practice sessions.
+Task verification=> 2 pictures have been inlcluded for verification as well as scritps used during practice sessions.
